@@ -6,5 +6,5 @@ bs4
 ipykernel
 requests
 selenium
-webdriver-manager
 openpyxl
+webdriver-manager
